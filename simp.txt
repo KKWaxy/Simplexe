@@ -1,0 +1,4 @@
+L'algorithme du simplexe est une des méthodes les plus utilisées dans le cadre de la recherche 
+opérationnelle.La complexité des problèmes à résoudre évolue constamment, de telle sorte que 
+les implémentations existantes s'avèrent parfois trop lentes. En parallèle la technologie évolue 
+et met à notre disposition de nouveaux outils tel que l'algoritme du simplexe.
